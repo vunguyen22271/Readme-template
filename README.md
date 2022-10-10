@@ -64,8 +64,8 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 
 ## Acknowledgements
 Give credit here.
-- This readme project was inspired by [Rita Łyczywek](Rita) and [Othneil Drew](Drew)
-- This project was based on [this tutorial](bulldogjob) and [Best Readme Template](Best-Template)
+- This readme project was inspired by [Rita Łyczywek][Rita] and [Othneil Drew][Drew])
+- This project was based on [this tutorial][bulldogjob] and [Best Readme Template][Best-Template]
 - Many thanks to...
 
 
@@ -73,8 +73,9 @@ Give credit here.
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [bulldogjob]: <https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project>
-   [rita]: <https://bulldogjob.com/readme/authors/rita-lyczywek>
-   [Drew]: <https://github.com/othneildrew>
-   [Best-Template]: >https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top
+
+[bulldogjob]: https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
+[rita]: https://bulldogjob.com/readme/authors/rita-lyczywek
+[Drew]: https://github.com/othneildrew
+[Best-Template]: https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top
 
