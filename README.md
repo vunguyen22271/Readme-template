@@ -65,8 +65,9 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 ## Acknowledgements
 Give credit here.
 - This readme project was inspired by [Rita Łyczywek][Rita] and [Othneil Drew][Drew])
-- This project was based on [this tutorial][bulldogjob] and [Best Readme Template][Best-Template]
+- This project was based on [this tutorial][bulldogjob], [Best Readme Template][Best-Template] and [README-cheatsheet][readme-cheatsheet]
 - Many thanks to...
+- [Markdown Cheatsheet][markdown-cheatsheet]
 
 
 ## Contact
@@ -78,4 +79,5 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 [rita]: https://bulldogjob.com/readme/authors/rita-lyczywek
 [Drew]: https://github.com/othneildrew
 [Best-Template]: https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top
-
+[markdown-cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[readme-cheatsheet]: https://github.com/ritaly/README-cheatsheet
