@@ -64,10 +64,10 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 
 ## Acknowledgements
 Give credit here.
-- This readme project was inspired by [Rita Łyczywek][Rita] and [Othneil Drew][Drew])
+- This readme project was inspired by [Rita Łyczywek][Rita] and [Othneil Drew][Drew]
 - This project was based on [this tutorial][bulldogjob], [Best Readme Template][Best-Template] and [README-cheatsheet][readme-cheatsheet]
-- Many thanks to...
 - [Markdown Cheatsheet][markdown-cheatsheet]
+- Many thanks to...
 
 
 ## Contact
