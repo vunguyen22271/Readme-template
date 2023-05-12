@@ -68,6 +68,7 @@ Give credit here.
 - This project was based on [this tutorial][bulldogjob], [Best Readme Template][Best-Template] and [README-cheatsheet][readme-cheatsheet]
 - [Markdown Cheatsheet][markdown-cheatsheet]
 - Online markdown preview [Dillinger.io][dillinger]
+- [Quickstart for writing on GitHub][quickstartmdgithub]
 - Many thanks to...
 
 
@@ -83,3 +84,4 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 [markdown-cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [readme-cheatsheet]: https://github.com/ritaly/README-cheatsheet
 [dillinger]: https://dillinger.io/
+[quickstartmdgithub]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
